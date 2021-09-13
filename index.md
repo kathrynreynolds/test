@@ -28,6 +28,19 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
+
+<section data-markdown>
+  <textarea data-template>
+    ## Slide 1
+    A paragraph with some text and a [link](http://hakim.se).
+    ---
+    ## Slide 2
+    ---
+    ## Slide 3
+  </textarea>
+</section>
+
+
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kathrynreynolds/test/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
