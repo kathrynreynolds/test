@@ -1,9 +1,4 @@
 ## Welcome to the quality framework for the use of administrative data in statistics.
-Introduction/user journey 
-
- 
-
-Administrative Data 
 
 This framework is to help you assess the quality of administrative data for use in the production of official statistics.  
 
