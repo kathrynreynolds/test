@@ -1,5 +1,3 @@
-## Welcome to the quality framework for the use of administrative data in statistics.
-
 This framework is to help you assess the quality of administrative data for use in the production of official statistics.  
 
 Administrative data is data which has been collected during the operations of an organisation. Government produces a very large amount of administrative data, providing a valuable resource if it can be used correctly. 
